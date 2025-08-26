@@ -1,5 +1,5 @@
 {
-  "name": "svg-captcha-fixed",
+  "name": "@zhennann/svg-captcha-fixed",
   "version": "1.5.0",
   "description": "generate svg captcha in node.js or express.js",
   "main": "index.js",
